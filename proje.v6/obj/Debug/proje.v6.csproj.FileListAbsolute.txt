@@ -1,0 +1,17 @@
+c:\users\nazli\onedrive\belgeler\visual studio 2013\Projects\proje.v6\proje.v6\bin\Debug\proje.v6.exe.config
+c:\users\nazli\onedrive\belgeler\visual studio 2013\Projects\proje.v6\proje.v6\bin\Debug\Form1.resx
+c:\users\nazli\onedrive\belgeler\visual studio 2013\Projects\proje.v6\proje.v6\bin\Debug\Form1.cs
+c:\users\nazli\onedrive\belgeler\visual studio 2013\Projects\proje.v6\proje.v6\bin\Debug\Form1.Designer.cs
+c:\users\nazli\onedrive\belgeler\visual studio 2013\Projects\proje.v6\proje.v6\bin\Debug\proje.v6.mdb
+c:\users\nazli\onedrive\belgeler\visual studio 2013\Projects\proje.v6\proje.v6\bin\Debug\proje.v6.exe
+c:\users\nazli\onedrive\belgeler\visual studio 2013\Projects\proje.v6\proje.v6\bin\Debug\proje.v6.pdb
+c:\users\nazli\onedrive\belgeler\visual studio 2013\Projects\proje.v6\proje.v6\obj\Debug\proje.v6.csprojResolveAssemblyReference.cache
+c:\users\nazli\onedrive\belgeler\visual studio 2013\Projects\proje.v6\proje.v6\obj\Debug\proje.v6.Form1.resources
+c:\users\nazli\onedrive\belgeler\visual studio 2013\Projects\proje.v6\proje.v6\obj\Debug\proje.v6.Form2.resources
+c:\users\nazli\onedrive\belgeler\visual studio 2013\Projects\proje.v6\proje.v6\obj\Debug\proje.v6.Form3.resources
+c:\users\nazli\onedrive\belgeler\visual studio 2013\Projects\proje.v6\proje.v6\obj\Debug\proje.v6.Form4.resources
+c:\users\nazli\onedrive\belgeler\visual studio 2013\Projects\proje.v6\proje.v6\obj\Debug\proje.v6.Properties.Resources.resources
+c:\users\nazli\onedrive\belgeler\visual studio 2013\Projects\proje.v6\proje.v6\obj\Debug\proje.v6.csproj.GenerateResource.Cache
+c:\users\nazli\onedrive\belgeler\visual studio 2013\Projects\proje.v6\proje.v6\obj\Debug\proje.v6.exe
+c:\users\nazli\onedrive\belgeler\visual studio 2013\Projects\proje.v6\proje.v6\obj\Debug\proje.v6.pdb
+C:\Users\nazli\OneDrive\Belgeler\Visual Studio 2013\Projects\proje.v6\proje.v6\bin\Debug\Program.cs
